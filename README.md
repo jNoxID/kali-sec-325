@@ -1,6 +1,6 @@
 # Liste de scripts à utiliser sur la distribution Kali de GNU/Linux
 
-## Outils comme : MacChanger, MSF ou encore Bwapp avec Dockers et d'autres codes utiles pour la sécurité informatique spécialement conçu pour la version Kali Kali.
+## Outils comme : MacChanger, MSF ou encore Bwapp avec Docker et d'autres codes utiles pour la sécurité informatique spécialement conçu pour la version Kali de Linux.
 
 ### Tous les fichiers ont été créé par : NEO_the-code (jNoxID)... (!!!)
 
